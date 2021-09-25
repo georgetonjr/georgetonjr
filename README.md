@@ -1,5 +1,5 @@
 ### Hi there 👋
-g
+
 <div align="center">
   <a href="https://github.com/georgetonjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgetonjr&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
